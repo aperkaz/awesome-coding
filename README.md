@@ -12,26 +12,23 @@ Gatsby.js presentation | Gatsby.js, Spectacle.js | https://github.com/aperkaz/ga
 Eloquent JS book | JS | https://github.com/aperkaz/eloquent-javascript
 
 
+
 ## Frontend
 
 Description | Tags | Repo
 ----------- | ----- | ----
 Real-time object detection | Tensorflow.js, web workers, offscreen canvas | https://github.com/aperkaz/tenforflow-js-web-worker
 Web-radio player | HTML, CSS, JS, online radio | https://github.com/aperkaz/web-radio-player
-
 LNU Student organization webpage | html, css, js. animate.css | https://github.com/aperkaz/kodkollektivet.se
-
 Sigma IT tweeter challenge | React, highcharts | https://github.com/aperkaz/sigma-trump-challenge
 Vue.js salary negotiation | Vue.js, jest, cypress | https://github.com/aperkaz/vue-js-salary-negotiation
 Battleship game | React, Feathers.js | https://github.com/aperkaz/battleship-frontend https://github.com/aperkaz/battleship
 Deploy Storybook | Storybook, Heroku, React | https://github.com/aperkaz/storybook-on-heroku
-
 Test React Router V4 | React, React Router v4 | https://github.com/aperkaz/test-react-router
 Test react-easy-state | React, react-easy-state | https://github.com/aperkaz/testing-react-easy-state
 Test Gatsby.js | Gatsby.js, Surge | https://github.com/aperkaz/gatsby-playground
 Test Gatsby.js in Netlify | Gatsby.js, Netlify,  | https://github.com/aperkaz/gatsby-blog-in-netlify
 Test Storybook.js | React, Storybook.js | https://github.com/aperkaz/react-components
-
 Offline JS playground | JS, mocha, chai, Istanbul | https://github.com/aperkaz/offline-js-playground
 Running dinner matcher | html, css, js | https://github.com/aperkaz/running-dinner
 Random quote machine | html, css, js | https://github.com/aperkaz/random-quote-machine
@@ -59,6 +56,8 @@ Unsplash Telegram bot | unsplash, Telebram, Python | https://github.com/aperkaz/
 Host Ghost blog in Glith | ghost, glitch, sh | https://github.com/aperkaz/glitch-ghost-blog
 Vagant for development (Ubuntu) | Vagrant, Linux | https://github.com/aperkaz/vagrant-docker
 Vagant for development (LXDE) | Vagrant, Linux |https://github.com/aperkaz/vagrant-lxde
+Stream processing, word count | Apache Storm, Vagrant | https://github.com/aperkaz/storm-pdf-word-counter
+Stream processing, top hashtags | Apache Storm, Twitter, Vagrant | https://github.com/aperkaz/storm-twitter-top-hashtags 
 
 
 ## Private projects
@@ -75,6 +74,14 @@ Rediscover your memories while keeping your privacy. [https://taggr.ai/](https:/
 </details>
 
 <details>
+  <summary>Personal website</summary>
+
+https://alainperkaz.com/
+
+- Landing page: https://github.com/aperkaz/personal-website
+</details>
+
+<details>
   <summary>Collabi</summary>
 
 Great ideas meet skilled creatives, using Next.js.
@@ -88,12 +95,4 @@ Great ideas meet skilled creatives, using Next.js.
 OMS for fictional sandwich shop, using React and Firebase.
 
 - Landing page: https://github.com/aperkaz/pink-sandwich
-</details>
-
-<details>
-  <summary>Personal website</summary>
-
-https://alainperkaz.com/
-
-- Landing page: https://github.com/aperkaz/personal-website
 </details>
