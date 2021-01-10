@@ -4,6 +4,11 @@ Repo with all the link to my projects, to ease navigation.
 
 ## JS
 
+
+Description | Stack | Repo
+------------ | ------------- | -------------
+Real time object detection | Tensorflow.js, web workers, offscreen canvas | https://github.com/aperkaz/tenforflow-js-web-worker
+
 ## React native
 
 ## Node.js
