@@ -1,4 +1,4 @@
-# Awesome Coding
+# 🚀 Awesome Coding
 
 Uber-repo with the links to my side-projects, to ease navigation.
 
