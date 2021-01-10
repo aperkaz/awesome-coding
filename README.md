@@ -1,16 +1,15 @@
 # Awesome Coding
 
-Uber-repo with all the link to my projects, to ease navigation.
+Uber-repo with the links to my projects, to ease navigation.
+
 
 ## Learning resources
-
 
 Description | Tags | Repo
 ----------- | ----- | ----
 Technical interviewing | Algorithms, Tech questions | https://github.com/aperkaz/ace-code-interview
 Gatsby.js presentation | Gatsby.js, Spectacle.js | https://github.com/aperkaz/gatsbyjs-presentation
 Eloquent JS book | JS | https://github.com/aperkaz/eloquent-javascript
-
 
 
 ## Frontend
@@ -33,8 +32,6 @@ Offline JS playground | JS, mocha, chai, Istanbul | https://github.com/aperkaz/o
 Running dinner matcher | html, css, js | https://github.com/aperkaz/running-dinner
 Random quote machine | html, css, js | https://github.com/aperkaz/random-quote-machine
 
-## React native
-Dead simple counter app | - | https://github.com/aperkaz/react-native-counter
 
 ## Node.js
 
