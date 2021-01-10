@@ -1,21 +1,46 @@
 # Awesome Coding
 
-Repo with all the link to my projects, to ease navigation.
+Uber-repo with all the link to my projects, to ease navigation.
+
+## Learning resources
+
+
+Description | Tags | Repo
+----------- | ----- | ----
+Technical interviewing | Algorithms, Tech questions | https://github.com/aperkaz/ace-code-interview
+Gatsby.js presentation | Gatsby.js, Spectacle.js | https://github.com/aperkaz/gatsbyjs-presentation
+
 
 ## JS
 
+Description | Tags | Repo
+----------- | ----- | ----
+Real-time object detection | Tensorflow.js, web workers, offscreen canvas | https://github.com/aperkaz/tenforflow-js-web-worker
 
-Description | Stack | Repo
------------- | ------------- | -------------
-Real time object detection | Tensorflow.js, web workers, offscreen canvas | https://github.com/aperkaz/tenforflow-js-web-worker
-React Storybook on heroku | Storybook, Heroku, React | https://github.com/aperkaz/storybook-on-heroku
 Vue.js salary negotiation | Vue.js, jest, cypress | https://github.com/aperkaz/vue-js-salary-negotiation
-Personal website |  | c
+Deploy Storybook | Storybook, Heroku, React | https://github.com/aperkaz/storybook-on-heroku
+
+Test Gatsby.js in Netlify | Gatsby.js, Netlify,  | https://github.com/aperkaz/gatsby-blog-in-netlify
 a | b | c
 
 ## React native
 
 ## Node.js
+
+Description | Tags | Repo
+----------- | ----- | ----
+Tensorflow playground | Tensorflow.js, image classification, object regognition | https://github.com/aperkaz/tensorflow-playground
+Simple proxy | http-proxy | https://github.com/aperkaz/node-proxy
+
+## Miscellaneous
+
+Description | Tags | Repo
+----------- | ----- | ----
+Student organization webpage | html, css, js. animate.css | https://github.com/aperkaz/kodkollektivet.se
+Unsplash Telegram bot | unsplash, Telebram, Python | https://github.com/aperkaz/telegram-unsplash-bot
+Host Ghost blog in Glith | ghost, glitch, sh | https://github.com/aperkaz/glitch-ghost-blog
+
+
 
 ## Private projects
 
