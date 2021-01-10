@@ -1,6 +1,6 @@
 # Awesome Coding
 
-Uber-repo with the links to my projects, to ease navigation.
+Uber-repo with the links to my side-projects, to ease navigation.
 
 
 ## Learning resources
